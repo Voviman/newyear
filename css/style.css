@@ -1,0 +1,20 @@
+body {
+    font-family: 'Didact Gothic', sans-serif;
+    background-color: #fff;
+}
+
+.text {
+    text-align: center;
+    margin-top: 20vh;
+}
+
+img {
+    max-width: 450px;
+    height: auto;
+}
+
+@media (max-width: 800px){
+    img {
+        max-width: 200px;
+    }
+}
